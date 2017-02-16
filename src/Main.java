@@ -4,8 +4,7 @@
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("dfghHello");
-        System.out.println("Hellosdf");
+        System.out.println("Hello");
     }
 
 }
